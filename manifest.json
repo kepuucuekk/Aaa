@@ -1,0 +1,28 @@
+{
+  "name": "Arya Trading Journal",
+  "short_name": "Arya Journal",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#030611",
+  "theme_color": "#030611",
+  "description": "Jurnal trading pribadi offline",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
